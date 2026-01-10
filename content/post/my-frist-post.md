@@ -1,7 +1,28 @@
 +++
 date = '2026-01-07T23:50:40+08:00'
 draft = false
-title = 'My Frist Post'
+title = '利用Hugo+Github搭建个人博客网站'
 +++
+简介：
+  如果你想要快速搭建一个自己的个人博客网站，并且能让互联网上的伙伴访问你的博客，可以按照下面的教程来尝试搭建。
+<!--more-->
 
-This is My Blog test Pages.
+# 一、环境准备
+```bash
+硬件需求：
+1.一台可以访问互联网的Linux主机
+2.一台和Linux主机内网的客户端
+软件需求：
+1.一个Github账号
+2.一个终端软件，如Xshell、SecureCRT、MobaX等
+
+```
+
+
+# 二、本地测试
+
+## 下载并安装Hugo软件包
+```bash
+
+
+```

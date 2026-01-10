@@ -2,3 +2,7 @@ baseURL = 'https://liupc356.github.io/My-Blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+
+disableSummary = true
+customCSS = [ "css/custom.css" ]
