@@ -4,7 +4,6 @@ draft = false
 title = '利用Hugo+Github搭建个人博客站'
 +++
 <!--more-->
-# 利用Hugo+Github搭建个人博客站
 
 
 
